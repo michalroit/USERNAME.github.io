@@ -1,4 +1,4 @@
-Link to my Exercism profile: https://exercism.org/profiles/michalro
+Link to my Exercism profile: [https://exercism.org/profiles/michalro](https://exercism.org/profiles/michalro)
 
 1. [Hello world](https://exercism.org/tracks/python/exercises/hello-world/solutions/michalro) - not mentored
 2. [Little Sister's Vocabulary](https://exercism.org/tracks/python/exercises/little-sisters-vocab/solutions/michalro) - mentored by Bob Hoeppner
