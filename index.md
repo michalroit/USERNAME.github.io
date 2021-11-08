@@ -6,4 +6,4 @@
 
 [Notes of the Advanced Python course](https://michalroit.github.io/notes)
 
-[List of all exercises on exercism](https://michalroit.github.io/Exercism)
+[List of all exercises on exercism](https://michalroit.github.io/exercism)
