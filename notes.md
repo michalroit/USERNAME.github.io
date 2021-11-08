@@ -1,6 +1,3 @@
-# Advanced Python Course 2021
-
-[About me](https://michalroit.github.io/aboutMe)
 
 ## Lecture 1 Oct. 26th:
 
