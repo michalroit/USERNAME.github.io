@@ -1,4 +1,6 @@
 
+## Class notes and HW
+
 ## Lecture 1 Oct. 26th:
 
 * Gabor explained about the process of cloning, sending a push and a pull request.
