@@ -24,3 +24,7 @@ Together with [Tabea](https://tabeaheckenthaler.github.io)
 
 ## Lecture 2 Nov. 2nd:
 my baby was sick, didn't come to class... 
+
+### HW:
+- [x] [Create Git website](https://michalroit.github.io/)
+- [x] [Create Git HTML website](https://michalroit.github.io/web/)
