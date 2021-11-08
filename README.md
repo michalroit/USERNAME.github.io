@@ -1,2 +1,2 @@
-# USERNAME.github.io
+# michalroit.github.io
 This page is created for WIS course
