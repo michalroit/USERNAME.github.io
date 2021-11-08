@@ -17,7 +17,7 @@
 * [pytest](https://code-maven.com/slides/python/testing-demo-pytest) need to install
 
 ### HW:
-Together with [Tabea] (https://tabeaheckenthaler.github.io)
+Together with [Tabea](https://tabeaheckenthaler.github.io)
 - [x] Send a pull request with notes and json with personal details
 - [x] 10 exercises on exercism with mentoring
 
